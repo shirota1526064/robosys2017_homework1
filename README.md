@@ -7,8 +7,8 @@
 * タイマー機能を追加したデバイスドライバを利用し接続から２秒だけLEDが点灯
 
 ## License
-* MIT  
-    * see LICENSE
+
+This repository is licensed under the GPLv3 License, see LICENSE.
 
 ## Demo video
 
