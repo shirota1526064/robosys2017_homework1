@@ -1,3 +1,7 @@
+## License
+* MIT  
+    * see LICENSE
+
 # ロボットシステム学2017課題１
 
 Webカメラ接続時にLEDが点灯するプログラムを作成
