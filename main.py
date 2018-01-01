@@ -1,6 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+'''
+license main.py v0.0.1
+(c) 2018 shirta1526064 s1526064KQ@s.chibakoudai.jp
+License: MIT
+'''
+
 import time
 import subprocess
 
